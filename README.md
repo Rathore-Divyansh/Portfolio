@@ -7,22 +7,14 @@ Welcome to my portfolio website! This site showcases my projects, skills, and pr
 - **Skills**: Highlights of my technical proficiency in programming languages, tools, and technologies.
 - **Projects**: Showcasing the projects I have worked on, such as:
   - Sentiment Analysis Chatbot
-  - Amazon Website Frontend Clone
   - Bankist Landing Page
-  - Online Voting System (Hackathon Project)
 - **Contact**: Ways to get in touch with me via email or LinkedIn.
 
 ## Technologies Used
 The portfolio is developed using:
 - **HTML5**: For structuring the content.
 - **CSS3**: For styling and visual design.
-
-## How to View the Portfolio
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Rathore-Divyansh/portfolio.git
-   ```
-2. Open the `index.html` file in your preferred web browser.
+- **JavaScript**: For adding interactivity and dynamic functionality.
 
 ## Connect with Me
 - **GitHub**: [github.com/Rathore-Divyansh](https://github.com/Rathore-Divyansh)
